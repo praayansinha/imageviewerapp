@@ -8,7 +8,7 @@ import InputLabel from '@material-ui/core/InputLabel';
 import Input from '@material-ui/core/Input';
 import FormHelperText from '@material-ui/core/FormHelperText';
 
-import Header from '../../common/header/header';
+import Header from '../../common/header/Header';
 import './Login.css'
 
 const styles = {
