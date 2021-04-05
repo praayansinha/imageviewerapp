@@ -9,8 +9,7 @@ ReactDOM.render(
 	<BrowserRouter>
       <App />
     </BrowserRouter>,
-    <span>
-        Image Viewer
-    </span>, 
     document.getElementById('root')
 );
+
+serviceWorker.unregister();
